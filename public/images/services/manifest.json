@@ -1,0 +1,272 @@
+{
+  "bathrooms": {
+    "id": "bathrooms",
+    "slug": "banheiro-quimico-mathias-eventos",
+    "width": 1122,
+    "height": 842,
+    "placeholder": "/images/services/banheiro-quimico-mathias-eventos/banheiro-quimico-mathias-eventos-placeholder.webp",
+    "variants": [
+      {
+        "width": 480,
+        "height": 360,
+        "avif": "/images/services/banheiro-quimico-mathias-eventos/banheiro-quimico-mathias-eventos-480.avif",
+        "webp": "/images/services/banheiro-quimico-mathias-eventos/banheiro-quimico-mathias-eventos-480.webp",
+        "fallback": "/images/services/banheiro-quimico-mathias-eventos/banheiro-quimico-mathias-eventos-480.jpg",
+        "bytes": {
+          "avif": 18964,
+          "webp": 23582,
+          "fallback": 30151
+        }
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "avif": "/images/services/banheiro-quimico-mathias-eventos/banheiro-quimico-mathias-eventos-800.avif",
+        "webp": "/images/services/banheiro-quimico-mathias-eventos/banheiro-quimico-mathias-eventos-800.webp",
+        "fallback": "/images/services/banheiro-quimico-mathias-eventos/banheiro-quimico-mathias-eventos-800.jpg",
+        "bytes": {
+          "avif": 37550,
+          "webp": 51302,
+          "fallback": 69426
+        }
+      },
+      {
+        "width": 1122,
+        "height": 842,
+        "avif": "/images/services/banheiro-quimico-mathias-eventos/banheiro-quimico-mathias-eventos-1122.avif",
+        "webp": "/images/services/banheiro-quimico-mathias-eventos/banheiro-quimico-mathias-eventos-1122.webp",
+        "fallback": "/images/services/banheiro-quimico-mathias-eventos/banheiro-quimico-mathias-eventos-1122.jpg",
+        "bytes": {
+          "avif": 57055,
+          "webp": 81148,
+          "fallback": 118610
+        }
+      }
+    ]
+  },
+  "tents": {
+    "id": "tents",
+    "slug": "tenda-mathias-eventos",
+    "width": 1280,
+    "height": 720,
+    "placeholder": "/images/services/tenda-mathias-eventos/tenda-mathias-eventos-placeholder.webp",
+    "variants": [
+      {
+        "width": 480,
+        "height": 270,
+        "avif": "/images/services/tenda-mathias-eventos/tenda-mathias-eventos-480.avif",
+        "webp": "/images/services/tenda-mathias-eventos/tenda-mathias-eventos-480.webp",
+        "fallback": "/images/services/tenda-mathias-eventos/tenda-mathias-eventos-480.jpg",
+        "bytes": {
+          "avif": 25934,
+          "webp": 32392,
+          "fallback": 29880
+        }
+      },
+      {
+        "width": 800,
+        "height": 450,
+        "avif": "/images/services/tenda-mathias-eventos/tenda-mathias-eventos-800.avif",
+        "webp": "/images/services/tenda-mathias-eventos/tenda-mathias-eventos-800.webp",
+        "fallback": "/images/services/tenda-mathias-eventos/tenda-mathias-eventos-800.jpg",
+        "bytes": {
+          "avif": 68648,
+          "webp": 86412,
+          "fallback": 79591
+        }
+      },
+      {
+        "width": 1280,
+        "height": 720,
+        "avif": "/images/services/tenda-mathias-eventos/tenda-mathias-eventos-1280.avif",
+        "webp": "/images/services/tenda-mathias-eventos/tenda-mathias-eventos-1280.webp",
+        "fallback": "/images/services/tenda-mathias-eventos/tenda-mathias-eventos-1280.jpg",
+        "bytes": {
+          "avif": 163988,
+          "webp": 208382,
+          "fallback": 196724
+        }
+      }
+    ]
+  },
+  "tables": {
+    "id": "tables",
+    "slug": "mesas-cadeiras-mathias-eventos",
+    "width": 1122,
+    "height": 1402,
+    "placeholder": "/images/services/mesas-cadeiras-mathias-eventos/mesas-cadeiras-mathias-eventos-placeholder.webp",
+    "variants": [
+      {
+        "width": 480,
+        "height": 600,
+        "avif": "/images/services/mesas-cadeiras-mathias-eventos/mesas-cadeiras-mathias-eventos-480.avif",
+        "webp": "/images/services/mesas-cadeiras-mathias-eventos/mesas-cadeiras-mathias-eventos-480.webp",
+        "fallback": "/images/services/mesas-cadeiras-mathias-eventos/mesas-cadeiras-mathias-eventos-480.jpg",
+        "bytes": {
+          "avif": 32637,
+          "webp": 43572,
+          "fallback": 46807
+        }
+      },
+      {
+        "width": 800,
+        "height": 1000,
+        "avif": "/images/services/mesas-cadeiras-mathias-eventos/mesas-cadeiras-mathias-eventos-800.avif",
+        "webp": "/images/services/mesas-cadeiras-mathias-eventos/mesas-cadeiras-mathias-eventos-800.webp",
+        "fallback": "/images/services/mesas-cadeiras-mathias-eventos/mesas-cadeiras-mathias-eventos-800.jpg",
+        "bytes": {
+          "avif": 74347,
+          "webp": 102840,
+          "fallback": 115530
+        }
+      },
+      {
+        "width": 1122,
+        "height": 1402,
+        "avif": "/images/services/mesas-cadeiras-mathias-eventos/mesas-cadeiras-mathias-eventos-1122.avif",
+        "webp": "/images/services/mesas-cadeiras-mathias-eventos/mesas-cadeiras-mathias-eventos-1122.webp",
+        "fallback": "/images/services/mesas-cadeiras-mathias-eventos/mesas-cadeiras-mathias-eventos-1122.jpg",
+        "bytes": {
+          "avif": 116841,
+          "webp": 174030,
+          "fallback": 203784
+        }
+      }
+    ]
+  },
+  "sound": {
+    "id": "sound",
+    "slug": "sonorizacao-mathias-eventos",
+    "width": 1122,
+    "height": 1402,
+    "placeholder": "/images/services/sonorizacao-mathias-eventos/sonorizacao-mathias-eventos-placeholder.webp",
+    "variants": [
+      {
+        "width": 480,
+        "height": 600,
+        "avif": "/images/services/sonorizacao-mathias-eventos/sonorizacao-mathias-eventos-480.avif",
+        "webp": "/images/services/sonorizacao-mathias-eventos/sonorizacao-mathias-eventos-480.webp",
+        "fallback": "/images/services/sonorizacao-mathias-eventos/sonorizacao-mathias-eventos-480.jpg",
+        "bytes": {
+          "avif": 46644,
+          "webp": 54410,
+          "fallback": 57542
+        }
+      },
+      {
+        "width": 800,
+        "height": 1000,
+        "avif": "/images/services/sonorizacao-mathias-eventos/sonorizacao-mathias-eventos-800.avif",
+        "webp": "/images/services/sonorizacao-mathias-eventos/sonorizacao-mathias-eventos-800.webp",
+        "fallback": "/images/services/sonorizacao-mathias-eventos/sonorizacao-mathias-eventos-800.jpg",
+        "bytes": {
+          "avif": 101375,
+          "webp": 125782,
+          "fallback": 140490
+        }
+      },
+      {
+        "width": 1122,
+        "height": 1402,
+        "avif": "/images/services/sonorizacao-mathias-eventos/sonorizacao-mathias-eventos-1122.avif",
+        "webp": "/images/services/sonorizacao-mathias-eventos/sonorizacao-mathias-eventos-1122.webp",
+        "fallback": "/images/services/sonorizacao-mathias-eventos/sonorizacao-mathias-eventos-1122.jpg",
+        "bytes": {
+          "avif": 154568,
+          "webp": 203484,
+          "fallback": 246045
+        }
+      }
+    ]
+  },
+  "bathroom-std": {
+    "id": "bathroom-std",
+    "slug": "banheiro-std",
+    "width": 1086,
+    "height": 1448,
+    "placeholder": "/images/services/banheiro-std/banheiro-std-placeholder.webp",
+    "variants": [
+      {
+        "width": 480,
+        "height": 640,
+        "avif": "/images/services/banheiro-std/banheiro-std-480.avif",
+        "webp": "/images/services/banheiro-std/banheiro-std-480.webp",
+        "fallback": "/images/services/banheiro-std/banheiro-std-480.jpg",
+        "bytes": {
+          "avif": 40773,
+          "webp": 51386,
+          "fallback": 54641
+        }
+      },
+      {
+        "width": 800,
+        "height": 1067,
+        "avif": "/images/services/banheiro-std/banheiro-std-800.avif",
+        "webp": "/images/services/banheiro-std/banheiro-std-800.webp",
+        "fallback": "/images/services/banheiro-std/banheiro-std-800.jpg",
+        "bytes": {
+          "avif": 95002,
+          "webp": 125018,
+          "fallback": 136554
+        }
+      },
+      {
+        "width": 1086,
+        "height": 1448,
+        "avif": "/images/services/banheiro-std/banheiro-std-1086.avif",
+        "webp": "/images/services/banheiro-std/banheiro-std-1086.webp",
+        "fallback": "/images/services/banheiro-std/banheiro-std-1086.jpg",
+        "bytes": {
+          "avif": 138383,
+          "webp": 201376,
+          "fallback": 226457
+        }
+      }
+    ]
+  },
+  "bathroom-pne-pcd": {
+    "id": "bathroom-pne-pcd",
+    "slug": "banheiro-pne-pcd",
+    "width": 1122,
+    "height": 1402,
+    "placeholder": "/images/services/banheiro-pne-pcd/banheiro-pne-pcd-placeholder.webp",
+    "variants": [
+      {
+        "width": 480,
+        "height": 600,
+        "avif": "/images/services/banheiro-pne-pcd/banheiro-pne-pcd-480.avif",
+        "webp": "/images/services/banheiro-pne-pcd/banheiro-pne-pcd-480.webp",
+        "fallback": "/images/services/banheiro-pne-pcd/banheiro-pne-pcd-480.jpg",
+        "bytes": {
+          "avif": 42136,
+          "webp": 52710,
+          "fallback": 56049
+        }
+      },
+      {
+        "width": 800,
+        "height": 1000,
+        "avif": "/images/services/banheiro-pne-pcd/banheiro-pne-pcd-800.avif",
+        "webp": "/images/services/banheiro-pne-pcd/banheiro-pne-pcd-800.webp",
+        "fallback": "/images/services/banheiro-pne-pcd/banheiro-pne-pcd-800.jpg",
+        "bytes": {
+          "avif": 85873,
+          "webp": 115264,
+          "fallback": 130575
+        }
+      },
+      {
+        "width": 1122,
+        "height": 1402,
+        "avif": "/images/services/banheiro-pne-pcd/banheiro-pne-pcd-1122.avif",
+        "webp": "/images/services/banheiro-pne-pcd/banheiro-pne-pcd-1122.webp",
+        "fallback": "/images/services/banheiro-pne-pcd/banheiro-pne-pcd-1122.jpg",
+        "bytes": {
+          "avif": 127172,
+          "webp": 184848,
+          "fallback": 224007
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "home-hero-estrutura-01",
+    "width": 1600,
+    "height": 900,
+    "widths": [
+      480,
+      800,
+      1600
+    ]
+  },
+  {
+    "slug": "tenda-montagem-geral-01",
+    "width": 1537,
+    "height": 1023,
+    "widths": [
+      480,
+      800,
+      1537
+    ]
+  },
+  {
+    "slug": "tendas-duplas-lado-a-lado-01",
+    "width": 1600,
+    "height": 900,
+    "widths": [
+      480,
+      800,
+      1600
+    ]
+  },
+  {
+    "slug": "backdrop-hero-01",
+    "width": 1600,
+    "height": 900,
+    "widths": [
+      480,
+      800,
+      1600
+    ]
+  },
+  {
+    "slug": "banheiros-familia-std-pcd-super-luxo-01",
+    "width": 1448,
+    "height": 1086,
+    "widths": [
+      480,
+      800,
+      1448
+    ]
+  },
+  {
+    "slug": "banheiro-std-frontal-01",
+    "width": 1536,
+    "height": 1024,
+    "widths": [
+      480,
+      800,
+      1536
+    ]
+  },
+  {
+    "slug": "banheiro-pcd-frontal-01",
+    "width": 1448,
+    "height": 1086,
+    "widths": [
+      480,
+      800,
+      1448
+    ]
+  },
+  {
+    "slug": "banheiro-super-luxo-frontal-01",
+    "width": 1600,
+    "height": 900,
+    "widths": [
+      480,
+      800,
+      1600
+    ]
+  },
+  {
+    "slug": "banheiro-super-luxo-interno-lavatorio-01",
+    "width": 1600,
+    "height": 900,
+    "widths": [
+      480,
+      800,
+      1600
+    ]
+  },
+  {
+    "slug": "banheiro-super-luxo-piso-bombas-01",
+    "width": 1600,
+    "height": 900,
+    "widths": [
+      480,
+      800,
+      1600
+    ]
+  },
+  {
+    "slug": "banheiro-super-luxo-mictorio-01",
+    "width": 1600,
+    "height": 900,
+    "widths": [
+      480,
+      800,
+      1600
+    ]
+  },
+  {
+    "slug": "banheiro-super-luxo-vaso-descarga-01",
+    "width": 1600,
+    "height": 900,
+    "widths": [
+      480,
+      800,
+      1600
+    ]
+  },
+  {
+    "slug": "cliente-sabo-trabalho-01",
+    "width": 1600,
+    "height": 900,
+    "widths": [
+      480,
+      800,
+      1600
+    ]
+  },
+  {
+    "slug": "cliente-ype-trabalho-01",
+    "width": 1448,
+    "height": 1086,
+    "widths": [
+      480,
+      800,
+      1448
+    ]
+  }
+]

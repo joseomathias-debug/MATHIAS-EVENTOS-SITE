@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 260" role="img" aria-labelledby="title desc">
+  <title id="title">Mathias Eventos - Símbolo Dark</title>
+  <desc id="desc">Símbolo oficial Mathias Eventos baseado no pórtico estrutural do Conceito 03.</desc>
+  <g>
+    <path d="M48 52H272M84 52V82M160 52V82M236 52V82" fill="none" stroke="#F4C900" stroke-width="16" stroke-linecap="square"/>
+    <path d="M58 218L84 82H236L262 218M84 82L122 124L160 82L198 124L236 82M160 82V218M48 218H92M228 218H272" fill="none" stroke="#10110E" stroke-width="15" stroke-linecap="square" stroke-linejoin="miter"/>
+  </g>
+</svg>

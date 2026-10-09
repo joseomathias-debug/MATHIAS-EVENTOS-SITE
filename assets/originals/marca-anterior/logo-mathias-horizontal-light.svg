@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 280" role="img" aria-labelledby="title desc">
+  <title id="title">Mathias Eventos - Logo Horizontal Light</title>
+  <desc id="desc">Logo horizontal oficial da Mathias Eventos.</desc>
+  <g transform="translate(24 10) scale(.9)">
+    <path d="M48 52H272M84 52V82M160 52V82M236 52V82" fill="none" stroke="#F4C900" stroke-width="16" stroke-linecap="square"/>
+    <path d="M58 218L84 82H236L262 218M84 82L122 124L160 82L198 124L236 82M160 82V218M48 218H92M228 218H272" fill="none" stroke="#F7F7F2" stroke-width="15" stroke-linecap="square" stroke-linejoin="miter"/>
+  </g>
+  <g transform="translate(340 88) scale(1.15)" fill="#F7F7F2" fill-rule="evenodd">
+    <path d="M0 60V0H12L30 30 48 0H60V60H47V22L30 48 13 22V60ZM72 60 94 0H110L132 60H117L112 45H92L87 60ZM96 33H108L102 15ZM144 0H204V13H181V60H167V13H144ZM216 0H230V23H262V0H276V60H262V36H230V60H216ZM288 0H302V60H288ZM314 60 336 0H352L374 60H359L354 45H334L329 60ZM338 33H350L344 15Z"/>
+    <path d="M438 6C431 2 423 0 415 0C401 0 392 7 392 16C392 27 400 30 416 34C431 38 440 42 440 51C440 58 431 60 417 60C406 60 397 57 389 52" fill="none" stroke="#F7F7F2" stroke-width="13" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(342 188) scale(.62)" fill="#F7F7F2" fill-rule="evenodd">
+    <path d="M0 0H50V12H14V24H44V36H14V48H50V60H0ZM62 0H77L92 44L107 0H122L101 60H83ZM134 0H184V12H148V24H178V36H148V48H184V60H134ZM196 60V0H210L240 38V0H254V60H240L210 22V60ZM266 0H326V13H303V60H289V13H266ZM350 0H388Q402 0 402 14V46Q402 60 388 60H350Q336 60 336 46V14Q336 0 350 0ZM353 13Q350 13 350 17V43Q350 47 353 47H385Q388 47 388 43V17Q388 13 385 13Z"/>
+    <path d="M467 6C460 2 452 0 444 0C430 0 421 7 421 16C421 27 429 30 445 34C460 38 469 42 469 51C469 58 460 60 446 60C435 60 426 57 418 52" fill="none" stroke="#F7F7F2" stroke-width="13" stroke-linecap="round"/>
+  </g>
+</svg>

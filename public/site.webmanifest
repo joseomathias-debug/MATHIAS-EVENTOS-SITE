@@ -1,0 +1,16 @@
+{
+  "name": "Mathias Eventos",
+  "short_name": "Mathias Eventos",
+  "description": "Locação e montagem de tendas, banheiros químicos e estruturas para eventos em Santo Antônio de Posse, Campinas e região.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "theme_color": "#10110E",
+  "background_color": "#10110E",
+  "display": "standalone"
+}

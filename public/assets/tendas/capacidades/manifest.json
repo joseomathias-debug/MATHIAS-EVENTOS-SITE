@@ -1,0 +1,495 @@
+[
+  {
+    "source": "01-tenda-3x3-cadeiras.png",
+    "slug": "01-tenda-3x3-cadeiras",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "01-tenda-3x3-cadeiras-640.webp",
+        "01-tenda-3x3-cadeiras-1000.webp"
+      ],
+      "png": "01-tenda-3x3-cadeiras-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "02-tenda-3x3-mesas-quadradas.png",
+    "slug": "02-tenda-3x3-mesas-quadradas",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "02-tenda-3x3-mesas-quadradas-640.webp",
+        "02-tenda-3x3-mesas-quadradas-1000.webp"
+      ],
+      "png": "02-tenda-3x3-mesas-quadradas-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "03-tenda-3x3-mesas-redondas.png",
+    "slug": "03-tenda-3x3-mesas-redondas",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "03-tenda-3x3-mesas-redondas-640.webp",
+        "03-tenda-3x3-mesas-redondas-1000.webp"
+      ],
+      "png": "03-tenda-3x3-mesas-redondas-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "04-tenda-3x3-mesas-retangulares.png",
+    "slug": "04-tenda-3x3-mesas-retangulares",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "04-tenda-3x3-mesas-retangulares-640.webp",
+        "04-tenda-3x3-mesas-retangulares-1000.webp"
+      ],
+      "png": "04-tenda-3x3-mesas-retangulares-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "05-tenda-4x4-cadeiras.png",
+    "slug": "05-tenda-4x4-cadeiras",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "05-tenda-4x4-cadeiras-640.webp",
+        "05-tenda-4x4-cadeiras-1000.webp"
+      ],
+      "png": "05-tenda-4x4-cadeiras-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "06-tenda-4x4-mesas-quadradas.png",
+    "slug": "06-tenda-4x4-mesas-quadradas",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "06-tenda-4x4-mesas-quadradas-640.webp",
+        "06-tenda-4x4-mesas-quadradas-1000.webp"
+      ],
+      "png": "06-tenda-4x4-mesas-quadradas-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "07-tenda-4x4-mesas-redondas.png",
+    "slug": "07-tenda-4x4-mesas-redondas",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "07-tenda-4x4-mesas-redondas-640.webp",
+        "07-tenda-4x4-mesas-redondas-1000.webp"
+      ],
+      "png": "07-tenda-4x4-mesas-redondas-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "08-tenda-4x4-mesas-retangulares.png",
+    "slug": "08-tenda-4x4-mesas-retangulares",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "08-tenda-4x4-mesas-retangulares-640.webp",
+        "08-tenda-4x4-mesas-retangulares-1000.webp"
+      ],
+      "png": "08-tenda-4x4-mesas-retangulares-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "09-tenda-5x5-cadeiras.png",
+    "slug": "09-tenda-5x5-cadeiras",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "09-tenda-5x5-cadeiras-640.webp",
+        "09-tenda-5x5-cadeiras-1000.webp"
+      ],
+      "png": "09-tenda-5x5-cadeiras-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "10-tenda-5x5-mesas-quadradas.png",
+    "slug": "10-tenda-5x5-mesas-quadradas",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "10-tenda-5x5-mesas-quadradas-640.webp",
+        "10-tenda-5x5-mesas-quadradas-1000.webp"
+      ],
+      "png": "10-tenda-5x5-mesas-quadradas-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "11-tenda-5x5-mesas-redondas.png",
+    "slug": "11-tenda-5x5-mesas-redondas",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "11-tenda-5x5-mesas-redondas-640.webp",
+        "11-tenda-5x5-mesas-redondas-1000.webp"
+      ],
+      "png": "11-tenda-5x5-mesas-redondas-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "12-tenda-5x5-mesas-retangulares.png",
+    "slug": "12-tenda-5x5-mesas-retangulares",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "12-tenda-5x5-mesas-retangulares-640.webp",
+        "12-tenda-5x5-mesas-retangulares-1000.webp"
+      ],
+      "png": "12-tenda-5x5-mesas-retangulares-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "13-tenda-6x6-cadeiras.png",
+    "slug": "13-tenda-6x6-cadeiras",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "13-tenda-6x6-cadeiras-640.webp",
+        "13-tenda-6x6-cadeiras-1000.webp"
+      ],
+      "png": "13-tenda-6x6-cadeiras-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "14-tenda-6x6-mesas-quadradas.png",
+    "slug": "14-tenda-6x6-mesas-quadradas",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "14-tenda-6x6-mesas-quadradas-640.webp",
+        "14-tenda-6x6-mesas-quadradas-1000.webp"
+      ],
+      "png": "14-tenda-6x6-mesas-quadradas-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "15-tenda-6x6-mesas-redondas.png",
+    "slug": "15-tenda-6x6-mesas-redondas",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "15-tenda-6x6-mesas-redondas-640.webp",
+        "15-tenda-6x6-mesas-redondas-1000.webp"
+      ],
+      "png": "15-tenda-6x6-mesas-redondas-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "16-tenda-6x6-mesas-retangulares.png",
+    "slug": "16-tenda-6x6-mesas-retangulares",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "16-tenda-6x6-mesas-retangulares-640.webp",
+        "16-tenda-6x6-mesas-retangulares-1000.webp"
+      ],
+      "png": "16-tenda-6x6-mesas-retangulares-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "17-tenda-7x7-cadeiras.png",
+    "slug": "17-tenda-7x7-cadeiras",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "17-tenda-7x7-cadeiras-640.webp",
+        "17-tenda-7x7-cadeiras-1000.webp"
+      ],
+      "png": "17-tenda-7x7-cadeiras-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "18-tenda-7x7-mesas-quadradas.png",
+    "slug": "18-tenda-7x7-mesas-quadradas",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "18-tenda-7x7-mesas-quadradas-640.webp",
+        "18-tenda-7x7-mesas-quadradas-1000.webp"
+      ],
+      "png": "18-tenda-7x7-mesas-quadradas-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "19-tenda-7x7-mesas-redondas.png",
+    "slug": "19-tenda-7x7-mesas-redondas",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "19-tenda-7x7-mesas-redondas-640.webp",
+        "19-tenda-7x7-mesas-redondas-1000.webp"
+      ],
+      "png": "19-tenda-7x7-mesas-redondas-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "20-tenda-7x7-mesas-retangulares.png",
+    "slug": "20-tenda-7x7-mesas-retangulares",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "20-tenda-7x7-mesas-retangulares-640.webp",
+        "20-tenda-7x7-mesas-retangulares-1000.webp"
+      ],
+      "png": "20-tenda-7x7-mesas-retangulares-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "21-tenda-8x8-cadeiras.png",
+    "slug": "21-tenda-8x8-cadeiras",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "21-tenda-8x8-cadeiras-640.webp",
+        "21-tenda-8x8-cadeiras-1000.webp"
+      ],
+      "png": "21-tenda-8x8-cadeiras-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "22-tenda-8x8-mesas-quadradas.png",
+    "slug": "22-tenda-8x8-mesas-quadradas",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "22-tenda-8x8-mesas-quadradas-640.webp",
+        "22-tenda-8x8-mesas-quadradas-1000.webp"
+      ],
+      "png": "22-tenda-8x8-mesas-quadradas-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "23-tenda-8x8-mesas-redondas.png",
+    "slug": "23-tenda-8x8-mesas-redondas",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "23-tenda-8x8-mesas-redondas-640.webp",
+        "23-tenda-8x8-mesas-redondas-1000.webp"
+      ],
+      "png": "23-tenda-8x8-mesas-redondas-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "24-tenda-8x8-mesas-retangulares.png",
+    "slug": "24-tenda-8x8-mesas-retangulares",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "24-tenda-8x8-mesas-retangulares-640.webp",
+        "24-tenda-8x8-mesas-retangulares-1000.webp"
+      ],
+      "png": "24-tenda-8x8-mesas-retangulares-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "25-tenda-10x10-cadeiras.png",
+    "slug": "25-tenda-10x10-cadeiras",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "25-tenda-10x10-cadeiras-640.webp",
+        "25-tenda-10x10-cadeiras-1000.webp"
+      ],
+      "png": "25-tenda-10x10-cadeiras-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "26-tenda-10x10-mesas-quadradas.png",
+    "slug": "26-tenda-10x10-mesas-quadradas",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "26-tenda-10x10-mesas-quadradas-640.webp",
+        "26-tenda-10x10-mesas-quadradas-1000.webp"
+      ],
+      "png": "26-tenda-10x10-mesas-quadradas-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "27-tenda-10x10-mesas-redondas.png",
+    "slug": "27-tenda-10x10-mesas-redondas",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "27-tenda-10x10-mesas-redondas-640.webp",
+        "27-tenda-10x10-mesas-redondas-1000.webp"
+      ],
+      "png": "27-tenda-10x10-mesas-redondas-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "28-tenda-10x10-mesas-retangulares.png",
+    "slug": "28-tenda-10x10-mesas-retangulares",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "28-tenda-10x10-mesas-retangulares-640.webp",
+        "28-tenda-10x10-mesas-retangulares-1000.webp"
+      ],
+      "png": "28-tenda-10x10-mesas-retangulares-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  },
+  {
+    "source": "29-sistema-de-calhas.png",
+    "slug": "29-sistema-de-calhas",
+    "original": {
+      "width": 2000,
+      "height": 1333
+    },
+    "generated": {
+      "webp": [
+        "29-sistema-de-calhas-640.webp",
+        "29-sistema-de-calhas-1000.webp"
+      ],
+      "png": "29-sistema-de-calhas-1000.png",
+      "width": 1000,
+      "height": 667
+    }
+  }
+]

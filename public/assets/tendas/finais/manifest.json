@@ -1,0 +1,226 @@
+[
+  {
+    "source": "Tenda 7x7/tenda-7x7-auditorio-clean.png",
+    "path": "/assets/tendas/finais/7x7/tenda-7x7-auditorio-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "2e17697e6f8a2f7502c1dd5431a60b06588ec2467bfe5322e74432b1932305c4"
+  },
+  {
+    "source": "Tenda 7x7/tenda-7x7-mesas-quadradas-clean.png",
+    "path": "/assets/tendas/finais/7x7/tenda-7x7-mesas-quadradas-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "b393cd98eed539290e5b0ee1bdffc1bc32594adb16beddb120a84c6f2b3e1666"
+  },
+  {
+    "source": "Tenda 7x7/tenda-7x7-mesas-redondas-clean.png",
+    "path": "/assets/tendas/finais/7x7/tenda-7x7-mesas-redondas-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "ae598b5979a5828495e9f437bef9fb2d1387f64909565773efe9749e4311afe7"
+  },
+  {
+    "source": "Tenda 7x7/tenda-7x7-mesas-retangulares-clean.png",
+    "path": "/assets/tendas/finais/7x7/tenda-7x7-mesas-retangulares-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "8ed2fd92575577463dc5f1390b4dd4db8f076ceba80f6b8c9dfb3fa551f38408"
+  },
+  {
+    "source": "Tenda 8x8/tenda-8x8-auditorio-clean.png",
+    "path": "/assets/tendas/finais/8x8/tenda-8x8-auditorio-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "cfa82b29d77ae42034e36b30f2d260a451ddbcbf671f1daab0deb1565fb4e824"
+  },
+  {
+    "source": "Tenda 8x8/tenda-8x8-mesas-quadradas-clean.png",
+    "path": "/assets/tendas/finais/8x8/tenda-8x8-mesas-quadradas-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "3ad102521229d93f83c39faae154d81a2651adee1280d8be510ab1d085b251c8"
+  },
+  {
+    "source": "Tenda 8x8/tenda-8x8-mesas-redondas-clean.png",
+    "path": "/assets/tendas/finais/8x8/tenda-8x8-mesas-redondas-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "b9718b16b1c3cd057bb8cb4fc6bbe96c4444b6e59b325cd408002cd83ad5e9e0"
+  },
+  {
+    "source": "Tenda 8x8/tenda-8x8-mesas-retangulares-clean.png",
+    "path": "/assets/tendas/finais/8x8/tenda-8x8-mesas-retangulares-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "c3bda4d77ac0970908819fd5fc026c5f0fdf5c693f7a4cf25eab4716e35e6fee"
+  },
+  {
+    "source": "Tenda 10x10/tenda-10x10-auditorio-clean.png",
+    "path": "/assets/tendas/finais/10x10/tenda-10x10-auditorio-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "cc0b57d20fac00feacf73198fafa60df029547eedabba43ce977466807fb713a"
+  },
+  {
+    "source": "Tenda 10x10/tenda-10x10-mesas-quadradas-clean.png",
+    "path": "/assets/tendas/finais/10x10/tenda-10x10-mesas-quadradas-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "589f8c14fa6191acb44189e49497a060255de825da7554c2b7a73ce5ca1f141b"
+  },
+  {
+    "source": "Tenda 10x10/tenda-10x10-mesas-redondas-clean.png",
+    "path": "/assets/tendas/finais/10x10/tenda-10x10-mesas-redondas-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "589f8c14fa6191acb44189e49497a060255de825da7554c2b7a73ce5ca1f141b"
+  },
+  {
+    "source": "Tenda 10x10/tenda-10x10-mesas-retangulares-clean.png",
+    "path": "/assets/tendas/finais/10x10/tenda-10x10-mesas-retangulares-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "461785f9a7bc69842261ca7653fe382bf82050858c41c93a76feb3f5a173d491"
+  },
+  {
+    "source": "Logo/logo-mathias-eventos-branca.png",
+    "path": "/assets/tendas/finais/logos/logo-mathias-eventos-branca.png",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "180c81295f9fae592b34b129359626f76aaa57f0bf920ca5c72632b86ea91b8a"
+  },
+  {
+    "source": "Logo/logo-mathias-eventos-preta.png",
+    "path": "/assets/tendas/finais/logos/logo-mathias-eventos-preta.png",
+    "width": 2000,
+    "height": 2000,
+    "sha256": "33e61628c34d9e4df58e8d7d687f328d7f4ba019e7e515a0129648fe499bbb61"
+  },
+  {
+    "source": "Sistema de calha/Sistema de calha tenda solo.png",
+    "path": "/assets/tendas/finais/calhas/Sistema de calha tenda solo.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "ae06b20bcff4a02f7f4d8711f62d19e23665e354684b79187538af54de950b11"
+  },
+  {
+    "source": "Sistema de calha/Sistema-de-calha-tenda-conjulgada.png",
+    "path": "/assets/tendas/finais/calhas/Sistema-de-calha-tenda-conjulgada.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "d4d3ae95b0692d3b0521253f87de09de8f2ec8b1fc99abaa253af4879b3d4a1e"
+  },
+  {
+    "source": "Tenda 3x3/tenda-3x3-auditorio-clean.png",
+    "path": "/assets/tendas/finais/3x3/tenda-3x3-auditorio-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "9fa83296d6913175f762b77882b904ef440003111ca4a7933870dde3ef5022bd"
+  },
+  {
+    "source": "Tenda 3x3/tenda-3x3-mesa-redonda-clean.png",
+    "path": "/assets/tendas/finais/3x3/tenda-3x3-mesa-redonda-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "f6b9545207dbb93767be16f7bab337defd4753262299871484d9076ec0b0c8bc"
+  },
+  {
+    "source": "Tenda 3x3/tenda-3x3-mesas-quadradas-clean.png",
+    "path": "/assets/tendas/finais/3x3/tenda-3x3-mesas-quadradas-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "c734574a5fe15f593b7aa336a7be8e2406ea6dab07c6d37cbe2433b39dfa38dc"
+  },
+  {
+    "source": "Tenda 3x3/tenda-3x3-mesas-retangulares-clean.png",
+    "path": "/assets/tendas/finais/3x3/tenda-3x3-mesas-retangulares-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "fa048876079fa9ba3dcc768c08753d461c240cf96921e4e1d917ed8312e37610"
+  },
+  {
+    "source": "Tenda 4x4/tenda-4x4-auditorio-clean.png",
+    "path": "/assets/tendas/finais/4x4/tenda-4x4-auditorio-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "9e80850db13f420b3957f632079dfe0c608d210b0650bb7b9d7b69f631306c5b"
+  },
+  {
+    "source": "Tenda 4x4/tenda-4x4-mesas-quadradas-clean.png",
+    "path": "/assets/tendas/finais/4x4/tenda-4x4-mesas-quadradas-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "bd501e728ff2114e563c1853eee0386f0fdc438903c8e28c5cf1e3c3b62f161d"
+  },
+  {
+    "source": "Tenda 4x4/tenda-4x4-mesas-redondas-clean.png",
+    "path": "/assets/tendas/finais/4x4/tenda-4x4-mesas-redondas-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "2c2bbb0a5584eed1f1ae1b9906807f7cb221044d5095f30d39a01b33c4a6bdd0"
+  },
+  {
+    "source": "Tenda 4x4/tenda-4x4-mesas-retangulares-clean.png",
+    "path": "/assets/tendas/finais/4x4/tenda-4x4-mesas-retangulares-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "05f484037b45ac56961f0fc873bb5018d757660456d13ae635d3151b64b88226"
+  },
+  {
+    "source": "Tenda 5x5/tenda-5x5-auditorio-clean.png",
+    "path": "/assets/tendas/finais/5x5/tenda-5x5-auditorio-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "7b7474b177af2bbb5497653a053cab1453d1b57778dc15cdd61793a22967cffd"
+  },
+  {
+    "source": "Tenda 5x5/tenda-5x5-mesas-quadradas-clean.png",
+    "path": "/assets/tendas/finais/5x5/tenda-5x5-mesas-quadradas-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "c303011b89a4b112806097903e971f057a1b170ba61fa776b4b4a19d51963940"
+  },
+  {
+    "source": "Tenda 5x5/tenda-5x5-mesas-redondas-clean.png",
+    "path": "/assets/tendas/finais/5x5/tenda-5x5-mesas-redondas-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "bb47f89d01d8927e85a5785b0880f00e85e16196e13d67a3c8597debc589c7d1"
+  },
+  {
+    "source": "Tenda 5x5/tenda-5x5-mesas-retangulares-clean.png",
+    "path": "/assets/tendas/finais/5x5/tenda-5x5-mesas-retangulares-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "ee07e8734e7da98246f162a74701604c9ffd54fd57cc6c85bc27c3f9b7d78c9a"
+  },
+  {
+    "source": "Tenda 6x6/tenda-6x6-auditorio-clean.png",
+    "path": "/assets/tendas/finais/6x6/tenda-6x6-auditorio-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "5f10d704b69ae498656bd130bc3b649dcebc96697d53d013af708adf2249a4b1"
+  },
+  {
+    "source": "Tenda 6x6/tenda-6x6-mesas-quadradas-clean.png",
+    "path": "/assets/tendas/finais/6x6/tenda-6x6-mesas-quadradas-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "7b14824e28261717ed4e46c4c1114d2d1a38f509a0087f0b344f478bf04a5347"
+  },
+  {
+    "source": "Tenda 6x6/tenda-6x6-mesas-redondas-clean.png",
+    "path": "/assets/tendas/finais/6x6/tenda-6x6-mesas-redondas-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "6e1ac53a854f1aaebf0af87a13be15a3caa353b2c79901e29e9bd54f03c4e443"
+  },
+  {
+    "source": "Tenda 6x6/tenda-6x6-mesas-retangulares-clean.png",
+    "path": "/assets/tendas/finais/6x6/tenda-6x6-mesas-retangulares-clean.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "8bbf392187396a91f54d42eda8f6a5e567b0b4c930aa335ef576c4a015f9f978"
+  }
+]
